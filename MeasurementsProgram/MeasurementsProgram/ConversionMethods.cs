@@ -38,5 +38,15 @@ namespace MeasurementsProgram
             double feet = miles * 5280;
             return feet;
         }
+        public static double MilesToKilometers(double miles)
+        {
+            double kilometers = miles * 1.609344;
+            return kilometers;
+        }
+        public static double KilometersToMiles(double kilometers)
+        {
+            double miles = kilometers / 1.609344;
+            return miles;
+        }
     }
 }

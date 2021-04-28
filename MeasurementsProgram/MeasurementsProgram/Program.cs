@@ -18,6 +18,8 @@ namespace MeasurementsProgram
             Console.WriteLine("4.Yards to Feet");
             Console.WriteLine("5. Feet to Miles");
             Console.WriteLine("6. Miles to Feet");
+            Console.WriteLine("7. Miles to Kilometers");
+            Console.WriteLine("8. Kilometers to Miles");
             Console.WriteLine("");
         }
 
@@ -76,6 +78,22 @@ namespace MeasurementsProgram
                     double feet = ConversionMethods.MilesToFeet(miles);
                     feet = Math.Round(feet, 2);
                     Console.WriteLine($"Measurement in miles {miles} converted to {feet} feet");
+                }
+                else if (option == "7")
+                {
+                    Console.WriteLine("Enter measurement in miles ");
+                    double miles = double.Parse(Console.ReadLine());
+                    double kilometers = ConversionMethods.MilesToKilometers(miles);
+                    kilometers = Math.Round(kilometers, 2);
+                    Console.WriteLine($"Measurement in miles {miles} converted to {kilometers} kilometers");
+                }
+                else if (option == "8")
+                {
+                    Console.WriteLine("Enter measurement in kilometers ");
+                    double kilometers = double.Parse(Console.ReadLine());
+                    double miles = ConversionMethods.KilometersToMiles(kilometers);
+                    miles = Math.Round(miles, 2);
+                    Console.WriteLine($"Measurement in kilometers {kilometers} converted to {miles} miles");
                 }
                 else
                 {
