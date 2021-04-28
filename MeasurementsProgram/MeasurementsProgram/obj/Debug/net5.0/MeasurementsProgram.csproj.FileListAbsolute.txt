@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\bin\Debug\net5.0\MeasurementsProgram.exe
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\bin\Debug\net5.0\MeasurementsProgram.deps.json
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\bin\Debug\net5.0\MeasurementsProgram.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\bin\Debug\net5.0\MeasurementsProgram.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\bin\Debug\net5.0\MeasurementsProgram.dll
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\bin\Debug\net5.0\ref\MeasurementsProgram.dll
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\bin\Debug\net5.0\MeasurementsProgram.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\obj\Debug\net5.0\MeasurementsProgram.csprojAssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\obj\Debug\net5.0\MeasurementsProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\obj\Debug\net5.0\MeasurementsProgram.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\obj\Debug\net5.0\MeasurementsProgram.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\obj\Debug\net5.0\MeasurementsProgram.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\obj\Debug\net5.0\MeasurementsProgram.dll
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\obj\Debug\net5.0\ref\MeasurementsProgram.dll
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\obj\Debug\net5.0\MeasurementsProgram.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\MeasurementsProgram\MeasurementsProgram\MeasurementsProgram\obj\Debug\net5.0\MeasurementsProgram.genruntimeconfig.cache
